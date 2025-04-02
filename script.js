@@ -8,6 +8,8 @@
 //let titleEl = document.getElementById("three");
 //console.log(titleEl);
 
+
+
 //#######getElementById + some Adjustments
 //let titleElement = document.getElementById("title");
 //console.log(titleElement)
@@ -26,19 +28,16 @@
 
 
 
-
-
-
 //#######Query selectorALL demo
-let para = document.querySelectorAll("#main");
-console.log(para);
+//let para = document.querySelectorAll("#main");
+//console.log(para);
 
 
-let descParagraph = document.querySelectorAll(".description");
-console.log(descParagraph);
+//let descParagraph = document.querySelectorAll(".description");
+//console.log(descParagraph);
 
-let header = document.querySelectorAll("h2");
-console.log(header);
+//let header = document.querySelectorAll("h2");
+//console.log(header);
 
 
 
