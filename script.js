@@ -14,15 +14,15 @@
 
 
 
+//#######Query selector demo
+//let para = document.querySelector("#main");
+//console.log(para);
 
-let para = document.querySelector("#main");
-console.log(para);
+//let descParagraph = document.querySelector(".description");
+//console.log(descParagraph);
 
-let descParagraph = document.querySelector(".description");
-console.log(descParagraph);
-
-let header = document.querySelector("h2");
-console.log(header);
+//let header = document.querySelector("h2");
+//console.log(header);
 
 
 
@@ -30,15 +30,15 @@ console.log(header);
 
 
 //#######Query selectorALL demo
-//let para = document.querySelectorAll("#mainheading");
-//console.log(para);
+let para = document.querySelectorAll("#main");
+console.log(para);
 
 
-//let descParagraph = document.querySelectorAll(".description");
-//console.log(descParagraph);
+let descParagraph = document.querySelectorAll(".description");
+console.log(descParagraph);
 
-//let header = document.querySelectorAll("h2");
-//console.log(header);
+let header = document.querySelectorAll("h2");
+console.log(header);
 
 
 
