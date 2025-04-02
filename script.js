@@ -3,11 +3,11 @@
 
 //console.log(titleElement);
 
-Let mainHeading = document.querySelector("#main-heading")
-Console.log(mainHeading)
+let para = document.querySelector("#mainheading");
+console.log(para);
 
-Let descparagraph = document.querySelector(".description")
-Console.log(descparagraph)
+let descParagraph = document.querySelector(".description");
+console.log(descParagraph);
 
-Let header = document.querySelector("#h2")
-Console.log(header)
+let header = document.querySelector("#h2");
+console.log(header);
