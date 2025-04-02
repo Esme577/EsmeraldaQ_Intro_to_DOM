@@ -9,5 +9,5 @@ console.log(para);
 let descParagraph = document.querySelector(".description");
 console.log(descParagraph);
 
-let header = document.querySelector("#h2");
+let header = document.querySelector("h2");
 console.log(header);
